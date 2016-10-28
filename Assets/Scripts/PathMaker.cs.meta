@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9878f2640fa174ab588cc5a993f4356c
+timeCreated: 1477618729
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - floorPrefab1: {fileID: 4000011106028842, guid: a57185b94cf524286a761e5a85518536,
+      type: 2}
+  - floorPrefab2: {fileID: 4000010560101040, guid: 9f83b8559a589405e80827327ec37e07,
+      type: 2}
+  - floorPrefab3: {fileID: 4000013601052596, guid: 85bec019d1e56457ba6bc6d4f4ef5079,
+      type: 2}
+  - pathmakerSpherePrefab: {fileID: 4000012383831628, guid: e7de4c08d437d44ed8293a3a12985e2f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
